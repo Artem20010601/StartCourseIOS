@@ -19,9 +19,5 @@ class ViewController: UIViewController {
     private func test() {
         print("Test")
     }
-    
-    public func lesson() {
-        print("Equal")
-    }
 }
 
